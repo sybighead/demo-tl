@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\workspace\\android\\demo-tl\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\to_stop.png",
+        "source": "D:\\workspace\\android\\demo-tl\\app\\src\\main\\res\\drawable-mdpi\\to_stop.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\demo-tl\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\to_start.png",
+        "source": "D:\\workspace\\android\\demo-tl\\app\\src\\main\\res\\drawable-mdpi\\to_start.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\demo-tl\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\light.png",
+        "source": "D:\\workspace\\android\\demo-tl\\app\\src\\main\\res\\drawable-mdpi\\light.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\demo-tl\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\android\\demo-tl\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\demo-tl\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ico_focus.png",
+        "source": "D:\\workspace\\android\\demo-tl\\app\\src\\main\\res\\drawable-mdpi\\ico_focus.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\demo-tl\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\camera.png",
+        "source": "D:\\workspace\\android\\demo-tl\\app\\src\\main\\res\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "D:\\workspace\\android\\demo-tl\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\block.png",
+        "source": "D:\\workspace\\android\\demo-tl\\app\\src\\main\\res\\drawable-mdpi\\block.png"
+    }
+]

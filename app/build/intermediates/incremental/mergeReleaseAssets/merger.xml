@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="23.3.0"><source path="D:\workspace\android\demo-tl\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\assets"/></dataSet><dataSet config="main"><source path="D:\workspace\android\demo-tl\app\src\main\assets"/><source path="D:\workspace\android\demo-tl\app\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\workspace\android\demo-tl\app\src\release\assets"/></dataSet></merger>

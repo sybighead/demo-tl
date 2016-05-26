@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity" >
+
+    <SurfaceView
+        android:id="@+id/camera"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true" />
+
+    <ImageView 
+        android:id="@+id/iv_focus"
+        android:background="@drawable/ico_focus"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:visibility="gone" />
+    
+    <Button
+        android:id="@+id/connect"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/to_start"
+        android:onClick="onClickStreamingButton"
+        android:visibility="invisible" />
+    
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleLarge"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="16dp"
+        android:visibility="visible" />
+
+    <Button
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+
+        android:id="@+id/switch_camera"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:background="@drawable/camera"
+        android:layout_margin="20dp"
+        android:onClick="onClickSwitchCamera"/>
+
+    <Button
+        android:layout_width="38dp"
+        android:layout_height="38dp"
+        android:layout_alignParentLeft="true"
+        android:id="@+id/switch_flash"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/light"
+        android:layout_margin="20dp"
+        android:onClick="onClickSwitchFlash"/>
+
+</RelativeLayout>
